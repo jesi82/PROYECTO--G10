@@ -1,11 +1,10 @@
+body{
+    background-color: aquamarine;
+}
 header{
-    position:;
-    width: 100px;
-    height: 70px;
-    left: 200px;
-    top: 0px;
-
-    background-color: blueviolet;
-    border-radius: 60px;
-
+    border: 2px solid black;
+}
+#logo{
+    height: 9%;
+    width: 15%;
 }
